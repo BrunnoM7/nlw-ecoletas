@@ -13,6 +13,7 @@ interface Item {
   title: string;
   image_url: string;
 }
+// test
 
 interface Point {
   id: number;
